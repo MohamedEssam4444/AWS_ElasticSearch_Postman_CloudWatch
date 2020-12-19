@@ -1,0 +1,6 @@
+curl 'https://search-mohamedessam-tazcrwadnhfehyo5jsqmc5bobm.us-west-2.es.amazonaws.com/_cat/health?v'
+curl 'https://search-mohamedessam-tazcrwadnhfehyo5jsqmc5bobm.us-west-2.es.amazonaws.com/_cat/nodes?v'
+curl 'https://search-mohamedessam-tazcrwadnhfehyo5jsqmc5bobm.us-west-2.es.amazonaws.com/_cat/indices?v'
+curl -XPOST 'https://search-mohamedessam-tazcrwadnhfehyo5jsqmc5bobm.us-west-2.es.amazonaws.com/_bulk' --data-binary @bulk_veggies.json -H 'Content-Type: application/json'
+curl -XGET 'https://search-mohamedessam-tazcrwadnhfehyo5jsqmc5bobm.us-west-2.es.amazonaws.com/veggies/_search?q=name:l*?pretty'
+curl -XGET 'https://search-mohamedessam-tazcrwadnhfehyo5jsqmc5bobm.us-west-2.es.amazonaws.com/veggies/_doc/9?pretty'
