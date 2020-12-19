@@ -1,7 +1,12 @@
 # AWS_ElasticSearch_Postman_CloudWatch
 uploading document to AWS ElasticSearch service using linux and Postman and seeing visuals on CloudWatch
 
-## Screenshots
+## Files
+1. **elasticsearch commands.sh**: Containing commands used on linux for elastics search get and post records
+
+2. **bulk_veggies.json**: Containing couple of records used for _bulk POST 
+
+### Screenshots
 1. **Making Amazon Elastic Search Cluster**
 ![Screenshot from 2020-12-19 11-37-22](https://user-images.githubusercontent.com/68178003/102689578-d921b000-4207-11eb-8416-3dd4c64085ba.png)
 
