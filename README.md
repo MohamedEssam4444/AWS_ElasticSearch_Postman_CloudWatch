@@ -55,5 +55,3 @@ uploading document to AWS ElasticSearch service using linux and Postman and seei
 ![Screenshot from 2020-12-19 14-16-25](https://user-images.githubusercontent.com/68178003/102690056-7cc08f80-420b-11eb-9499-ee1d5e7bd87a.png)
 
 ![Screenshot from 2020-12-19 14-16-57](https://user-images.githubusercontent.com/68178003/102690058-80541680-420b-11eb-8216-5f18ba7386ef.png)
-
-![Screenshot from 2020-12-19 14-28-14](https://user-images.githubusercontent.com/68178003/102690063-83e79d80-420b-11eb-8731-c7a877664692.png)
